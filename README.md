@@ -1,14 +1,6 @@
 CareConnect
 Welcome to Care Connect, a web application dedicated to providing essential support and companionship to senior citizens. Care Connect leverages the power of technology to enhance the lives of the elderly by offering a range of valuable features and services.
 
-## Table of Contents
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 Care Connect offers a variety of features to cater to the unique needs of senior citizens:
 
@@ -19,9 +11,6 @@ Care Connect offers a variety of features to cater to the unique needs of senior
 - **Fall Detection:** Monitor falls and alert volunteers to provide immediate assistance.
 - **Scheduled Reminders:** Automated daily task reminders at 9:50 AM for staying organized.
 - **Twilio Integration:** Send alert notifications to NGOs and volunteers for new form submissions.
-
-
-
 
 
 ## Technology Stack
