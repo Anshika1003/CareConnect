@@ -1,4 +1,4 @@
-git# CareConnect
+CareConnect
 Welcome to Care Connect, a web application dedicated to providing essential support and companionship to senior citizens. Care Connect leverages the power of technology to enhance the lives of the elderly by offering a range of valuable features and services.
 
 ## Table of Contents
